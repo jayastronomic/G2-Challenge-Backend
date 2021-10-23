@@ -22,6 +22,8 @@ bundle install
 
 * Database creation
 
+Create, migrate, and seed the database with G2 endpoint "https://coding-assignment.g2crowd.com/"
+
 * Database initialization
 
 * How to run the test suite
