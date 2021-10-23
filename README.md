@@ -1,13 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello. Welcome To G2 Crowd Team Roster Backend
 
-Things you may want to cover:
+# How to Get Started
 
 * Ruby version
 
+The ruby version being used in this project: 
+```
+ruby '2.6.1'
+```
+
 * System dependencies
+
+Run bundle command to install dependencies:
+```
+bundle install 
+```
 
 * Configuration
 
