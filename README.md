@@ -29,7 +29,7 @@ rails db:create
 rails db:migrate
 rails db:seed
 ```
-Check to if migrations were created:
+Check to see if migrations were created:
 ```
 rails db:migrate:status
 ```
@@ -46,4 +46,4 @@ It is highly suggested to get the backend up and running first, but not mandator
 
 
 
-* ...
+
