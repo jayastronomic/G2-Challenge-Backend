@@ -30,7 +30,7 @@ rails db:create
 rails db:migrate
 rails db:seed
 ```
-Check to see if migrations were created:
+To check to see if migrations were created, run the command:
 ```
 rails db:migrate:status
 ```
