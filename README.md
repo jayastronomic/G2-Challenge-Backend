@@ -23,7 +23,7 @@ bundle install
 
 Create, migrate, and seed the database with the G2 endpoint "https://coding-assignment.g2crowd.com/"
 The endpoint is already stored in the seeds file to create G2 Employee Model instances in the database. 
-Location: /app/db/seeds.rb
+
 Run the commands:
 ```
 rails db:create
